@@ -1,0 +1,4 @@
+resposta questão 1:
+
+Polimofismo é quando uma classe Pai/Super possui métodos que receberão implantações
+de formas diferentes, de acordo com a classe derivada.
